@@ -6,5 +6,7 @@
 オープンソースな4サイトハバード模型ソルバーを目指しているので、もし「こんな方法もあるぞ」という方はPull requestsで貢献していただけると嬉しいです。
 
 1. 4サイトHubbard模型の厳密対角化
+状態を全てあげて対角化します。
+https://github.com/cometscome/4sitesHubbard/blob/master/01ExactDiagonalization/Hubbard_exact.ipynb
 
 
