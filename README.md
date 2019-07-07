@@ -10,4 +10,7 @@
 状態を全てあげて対角化します。
 https://github.com/cometscome/4sitesHubbard/blob/master/01ExactDiagonalization/Hubbard_exact.ipynb
 
+言語:Julia 1.1
+
+2. 
 
