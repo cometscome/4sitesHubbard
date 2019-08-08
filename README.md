@@ -12,5 +12,10 @@ https://github.com/cometscome/4sitesHubbard/blob/master/01ExactDiagonalization/H
 
 言語:Julia 1.1
 
-2. 
+2. 4サイトHubbard模型のHartree Fock近似
+
+Hatree-Fock近似を行なって、その範囲内で最小のエネルギーを持つ状態を探索します。
+https://github.com/cometscome/4sitesHubbard/blob/master/02HartreeFock/HartreeFock.ipynb
+
+言語:Julia 1.1
 
